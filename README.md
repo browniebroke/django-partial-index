@@ -25,6 +25,7 @@ Requirements:
 
 * Django 1.11 (with Python 2.7 and 3.4 - 3.6), or
 * Django 2.0 (with Python 3.4 - 3.6).
+* Django 2.1 (with Python 3.5 or 3.6).
 * PostgreSQL or SQLite database backend. (Partial indexes are not supported on MySQL, and require major hackery on Oracle.)
 
 ## Usage
